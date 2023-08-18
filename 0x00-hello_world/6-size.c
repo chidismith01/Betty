@@ -3,8 +3,8 @@
 /**
  * main - Entry point
  *
- *A program that prints the size of various types in c
-
+ * A program that prints the size of various types in c
+ *
  * Return: 0 Always 
  */
 int main(void)
