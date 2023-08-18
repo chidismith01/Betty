@@ -4,7 +4,7 @@
  *
  * A program that prints the size of various types in c
  *
- * Return: 0 Always 
+ * Return: Always 0 (Sucess)
  */
 
 int main(void)
