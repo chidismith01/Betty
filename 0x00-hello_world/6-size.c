@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - Entry point
  *
@@ -7,6 +6,7 @@
  *
  * Return: 0 Always 
  */
+
 int main(void)
 {
 	/* declaring variables of different types */
