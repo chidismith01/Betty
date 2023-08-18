@@ -1,8 +1,13 @@
-#include <stdio.h>
 /*
- * main - prints "Programming is like building a multilingual puzzle
+ * file: 4-puts.c
+ */
+
+#include <stdio.h>
+
+/**
+ * main - Entry point
  *
- * return (0)
+ * return: always 0 (success)
  */
 int main(void)
 {
