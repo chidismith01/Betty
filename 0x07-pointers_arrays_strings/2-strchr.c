@@ -13,7 +13,7 @@
 
 char *_strchr(char *s, char c)
 {
-	while(*s)
+	while(*s){
 	{
 		if(*s != c)
 			s++;
@@ -25,4 +25,5 @@ char *_strchr(char *s, char c)
 			return (s);
 	}
 	return (NULL);
+	}
 }
